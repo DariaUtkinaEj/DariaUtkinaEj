@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @DariaUtkinaEj , 23 y.o. I'm young web developer!
+- 👋 Hi, I’m @DariaUtkinaEj , 24 y.o. I'm young web developer!
 - 👀 I’m pretty interested in DevOps&Gitops Practices, Linux and coding!
 - 🌱 I’m currently learning PHP and JavaScript!
 - 💞️ I’m looking to collaborate on realworld applications, I want to collaborate in writing backend and CI/CD cycles.
